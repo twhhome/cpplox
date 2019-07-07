@@ -1,0 +1,8 @@
+﻿  error.cpp
+  main.cpp
+  Scanner.cpp
+e:\program\c++\cpplox\cpplox\scanner.cpp(167): warning C4018: “>”: 有符号/无符号不匹配
+e:\program\c++\cpplox\cpplox\scanner.cpp(186): warning C4018: “>=”: 有符号/无符号不匹配
+e:\program\c++\cpplox\cpplox\scanner.cpp(226): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  cpplox.vcxproj -> E:\program\C++\cpplox\Debug\cpplox.exe
